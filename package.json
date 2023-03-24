@@ -17,7 +17,7 @@
     "url": "https://github.com/KanadeAditya/Learning-CI-CD/issues"
   },
   "homepage": "https://github.com/KanadeAditya/Learning-CI-CD#readme",
-  "dependencies": {
-    "shortid": "^2.2.16"
+  "devDependencies": {
+    "eslint": "^8.36.0"
   }
 }
